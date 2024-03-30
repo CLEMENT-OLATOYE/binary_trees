@@ -1,4 +1,4 @@
-#binary_trees
-This project is a group work done by the AUTHORS below
-OLATOYE CLEMENT DAMILOLA email: olatoyeclement@gmail.com
-OLUWASEUN DAVID AJAYI email: oluwaseundvd@gmail.com
+This is binary_trees project and it is a group project dones by:
+olatoye clement damilola 
+Oluwaseun David Ajayi
+# binary_trees
